@@ -1,0 +1,14 @@
+﻿{
+  "0": {
+    "start": 7.969,
+    "end": 14.47,
+    "text": "First lyric line goes here",
+    "bbox": [900, 1660, 100, 1000]
+  },
+  "1": {
+    "start": 15.186,
+    "end": 20.26,
+    "text": "Second lyric line goes here",
+    "bbox": [850, 1700, 120, 1010]
+  }
+}

@@ -1,0 +1,6 @@
+﻿[00:05.00]First lyric line goes here
+[00:10.00]Second lyric line goes here
+[00:14.50]Third lyric line goes here
+[00:19.20]Fourth lyric line goes here
+[00:24.00]Fifth lyric line goes here
+[00:28.75]Sixth lyric line goes here

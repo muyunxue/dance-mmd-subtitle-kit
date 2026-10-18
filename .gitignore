@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Media / assets (not redistributed)
+*.mp4
+*.webm
+*.mkv
+*.mov
+*.avi
+*.ass.bak
+outputs/
+_work/
+_probe/
+_probe_*/
+
+# Downloaded fonts
+scripts/fonts/*.ttf
+scripts/fonts/*.ttc
+
+# Keep example previews
+!examples/previews/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
